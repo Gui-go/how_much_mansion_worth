@@ -1,0 +1,114 @@
+1654874760995	geckodriver	INFO	Listening on 127.0.0.1:34735
+1654874762090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileBYVFV1"
+1654874772753	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBYVFV1/search.json.mozlz4", (void 0)))
+1654874784292	Marionette	INFO	Listening on port 39311
+Read port: 39311
+1654874784771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654874959044	Marionette	INFO	Stopped listening on port 39311
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654874967602	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1654874969765	geckodriver	INFO	Listening on 127.0.0.1:59501
+1654874969770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilezTxWbl"
+1654874971605	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezTxWbl/search.json.mozlz4", (void 0)))
+1654874974233	Marionette	INFO	Listening on port 39077
+Read port: 39077
+1654874974331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654875061705	Marionette	INFO	Stopped listening on port 39077
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1654875064519	geckodriver	INFO	Listening on 127.0.0.1:33409
+1654875064624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileG5lbeb"
+1654875066162	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileG5lbeb/search.json.mozlz4", (void 0)))
+1654875068640	Marionette	INFO	Listening on port 34055
+Read port: 34055
+1654875068770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654875074316	Marionette	INFO	Stopped listening on port 34055
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654877930048	geckodriver	INFO	Listening on 127.0.0.1:56241
+1654877930055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilelbhRLE"
+1654877931688	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelbhRLE/search.json.mozlz4", (void 0)))
+1654877935657	Marionette	INFO	Listening on port 45781
+Read port: 45781
+1654877935789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Co234H0mqm-3QDa96jXfhCsIzvyuaV9uBMdU0yZJozo.js line 2 > eval line 5812 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1654877995869	Marionette	INFO	Stopped listening on port 45781
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654878007222	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1654878541846	geckodriver	INFO	Listening on 127.0.0.1:44497
+1654878541920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilejdMqcb"
+1654878546371	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejdMqcb/search.json.mozlz4", (void 0)))
+1654878549863	Marionette	INFO	Listening on port 35963
+Read port: 35963
+1654878549976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Co234H0mqm-3QDa96jXfhCsIzvyuaV9uBMdU0yZJozo.js line 2 > eval line 7797 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654878595849	Marionette	INFO	Stopped listening on port 35963
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1654878606195	geckodriver	INFO	Listening on 127.0.0.1:34869
+1654878606348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilegsql8t"
+1654878608833	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegsql8t/search.json.mozlz4", (void 0)))
+1654878612296	Marionette	INFO	Listening on port 43247
+Read port: 43247
+1654878612392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Co234H0mqm-3QDa96jXfhCsIzvyuaV9uBMdU0yZJozo.js line 2 > eval line 2964 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654878633674	Marionette	INFO	Stopped listening on port 43247
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1654880107837	geckodriver	INFO	Listening on 127.0.0.1:47401
+1654880108897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile9ZRZxx"
+1654880111055	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9ZRZxx/search.json.mozlz4", (void 0)))
+1654880115495	Marionette	INFO	Listening on port 42133
+Read port: 42133
+1654880115561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Co234H0mqm-3QDa96jXfhCsIzvyuaV9uBMdU0yZJozo.js line 2 > eval line 607 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1654880170050	Marionette	INFO	Stopped listening on port 42133
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654880335845	geckodriver	INFO	Listening on 127.0.0.1:37059
+1654880336912	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileYui0dj"
+1654880342529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYui0dj/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1654880354985	Marionette	INFO	Listening on port 46747
+Read port: 46747
+1654880355229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Co234H0mqm-3QDa96jXfhCsIzvyuaV9uBMdU0yZJozo.js line 2 > eval line 4818 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1654880442827	Marionette	INFO	Stopped listening on port 46747
+1654906892335	geckodriver	INFO	Listening on 127.0.0.1:32825
+1654906893364	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileJkEXab"
+1654906901247	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJkEXab/search.json.mozlz4", (void 0)))
+1654906910552	Marionette	INFO	Listening on port 44409
+Read port: 44409
+1654906911240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Co234H0mqm-3QDa96jXfhCsIzvyuaV9uBMdU0yZJozo.js line 2 > eval line 6128 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654906936144	Marionette	INFO	Stopped listening on port 44409
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+

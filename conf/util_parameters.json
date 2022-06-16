@@ -1,0 +1,11 @@
+{
+  "first_page": "https://www.vivareal.com.br/venda/distrito-federal/brasilia/casa_residencial/#preco-desde=3000000",
+  "n_pages_run" : 6,
+  "deflator_inplicito": 1.11,
+  "pred_feat_area": 1100,
+  "pred_feat_bedrooms": 6,
+  "pred_feat_bathrooms": 8,
+  "pred_feat_garages": 8,
+  "rf_n_estimators": 1000,
+  "rf_random_state": 42
+}
